@@ -76,3 +76,7 @@ pre.sourceCode span.re { }
 pre.sourceCode span.er { color: red; font-weight: bold; }
 
 span.math { color: #3D59AB; font-style: italic; }
+
+.container.pad50px-container {
+          padding: 50px 50px;
+}
