@@ -3,8 +3,6 @@ title: Border Patrol
 layout: default
 ---
 
-<img alt="Border Patrol logo, a Border Collie" src="Border_Patrol_logo_w_strapline.png" "Border Patrol" width="100%">
-
 # Border Patrol
 
 *Border Patrol* is a research project [funded by EPSRC](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028201/1) as part of the [TIPS ](https://www.epsrc.ac.uk/funding/calls/trustidentityprivacysecurity/) call (Trust, Identity, Privacy and Security in the Digital Economy). It aims to make the design of hardware systems, in particular smart devices, proof against hidden malicious functionality. It is an ambitious project combining very advanced type theory and compiler technology to hardware design. In this post I want to explain how the idea behind Border Patrol came about.
