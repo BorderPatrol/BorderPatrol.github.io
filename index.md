@@ -1,6 +1,6 @@
 ---
 title: Border Patrol
-layout: post
+layout: default
 ---
 # Border Patrol
 
