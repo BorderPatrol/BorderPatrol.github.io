@@ -3,7 +3,7 @@ title: Border Patrol
 layout: default
 ---
 
-![Border Patrol logo, a Border Collie]("Border_Patrol_logo_w_strapline.png" "Border Patrol")
+![Border Patrol logo, a Border Collie](Border_Patrol_logo_w_strapline.png "Border Patrol")
 
 # Border Patrol
 
