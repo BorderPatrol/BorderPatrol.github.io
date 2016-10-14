@@ -5,6 +5,9 @@ layout: default
 
 # Border Patrol
 
+* [Would you like to work on this project? We're hiring!](http://www.jobs.ac.uk/job/AUK479/research-associate/)
+
+
 *Border Patrol* is a research project [funded by EPSRC](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028201/1) as part of the [TIPS ](https://www.epsrc.ac.uk/funding/calls/trustidentityprivacysecurity/) call (Trust, Identity, Privacy and Security in the Digital Economy). It aims to make the design of hardware systems, in particular smart devices, proof against hidden malicious functionality. It is an ambitious project combining very advanced type theory and compiler technology to hardware design. In this post I want to explain how the idea behind Border Patrol came about.
 
 Some time ago I was contacted by EDF (a large utility provider) to conduct an analysis of the cybersecurity issues regarding FPGA-based smart SCADA controllers. I used to work as a chip designer and in CMOS technology qualification and I am an expert in FPGA (Field Programmable Gate Array) design so I am familiar with the entire process of creating such devices.
