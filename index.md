@@ -5,8 +5,9 @@ layout: default
 
 # Border Patrol
 
+<!--
 * [Would you like to work on this project? We're hiring!](http://www.jobs.ac.uk/job/AUK479/research-associate/)
-
+-->
 
 *Border Patrol* is a research project [funded by EPSRC](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028201/1) as part of the [TIPS ](https://www.epsrc.ac.uk/funding/calls/trustidentityprivacysecurity/) call (Trust, Identity, Privacy and Security in the Digital Economy). It aims to make the design of hardware systems, in particular smart devices, proof against hidden malicious functionality. It is an ambitious project combining very advanced type theory and compiler technology to hardware design. In this post I want to explain how the idea behind Border Patrol came about.
 
